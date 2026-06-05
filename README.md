@@ -10,7 +10,7 @@
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -64,25 +64,25 @@
 
 ---
 
-## Competitions & Hackathons
+<h2 align="center">Competitions & Hackathons</h2>
 
 <div align="center">
 
 <table>
   <tr>
-    <th>Competition</th>
-    <th>Year</th>
-    <th>Focus</th>
+    <th align="center">Competition</th>
+    <th align="center">Year</th>
+    <th align="center">Focus</th>
   </tr>
   <tr>
-    <td><b>KitaHack</b></td>
-    <td>2026</td>
-    <td>Teamwork, rapid prototyping, and product thinking</td>
+    <td align="center"><b>KitaHack</b></td>
+    <td align="center">2026</td>
+    <td align="center">Teamwork, rapid prototyping, and product thinking</td>
   </tr>
   <tr>
-    <td><b>BorNEO HackWknd</b></td>
-    <td>2026</td>
-    <td>Full-stack development and cloud-backed features</td>
+    <td align="center"><b>BorNEO HackWknd</b></td>
+    <td align="center">2026</td>
+    <td align="center">Full-stack development and cloud-backed features</td>
   </tr>
 </table>
 
