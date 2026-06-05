@@ -68,7 +68,7 @@
 
 <div>
 
-<table>
+<table align="center">
   <tr>
     <th>Competition</th>
     <th>Year</th>
