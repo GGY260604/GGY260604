@@ -66,6 +66,8 @@
 
 ## Competitions & Hackathons
 
+<div align="center">
+
 <table>
   <tr>
     <th>Competition</th>
@@ -83,6 +85,8 @@
     <td>Full-stack development and cloud-backed features</td>
   </tr>
 </table>
+
+</div>
 
 ---
 
