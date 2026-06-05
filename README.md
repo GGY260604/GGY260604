@@ -64,32 +64,6 @@
 
 ---
 
-<h2>Competitions & Hackathons</h2>
-
-<div>
-
-<table align="center">
-  <tr>
-    <th>Competition</th>
-    <th>Year</th>
-    <th>Focus</th>
-  </tr>
-  <tr>
-    <td><b>KitaHack</b></td>
-    <td>2026</td>
-    <td>Teamwork, rapid prototyping, and product thinking</td>
-  </tr>
-  <tr>
-    <td><b>BorNEO HackWknd</b></td>
-    <td>2026</td>
-    <td>Full-stack development and cloud-backed features</td>
-  </tr>
-</table>
-
-</div>
-
----
-
 <div align="center">
 
 ### "Code is not only about solving problems, but also about designing systems that stay understandable."
